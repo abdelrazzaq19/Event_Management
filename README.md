@@ -1,7 +1,7 @@
 # Event Management System - Laravel 10
 
 ## Identitas
-- **Nama:** Rifqi Banu Safingi
+- **Nama:** abdel
 - **Kelas:** XI PPLG 1
 - **Nomor Absen:** 33
 
